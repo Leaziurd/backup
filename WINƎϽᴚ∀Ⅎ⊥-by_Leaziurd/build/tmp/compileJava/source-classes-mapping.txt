@@ -1,0 +1,4 @@
+net/leaziurd/minecraftByLeaziurd/mixin/noMoreMultiplayer.java
+ net.leaziurd.minecraftByLeaziurd.mixin.noMoreMultiplayer
+net/leaziurd/minecraftByLeaziurd/minecraftByLeaziurd.java
+ net.leaziurd.minecraftByLeaziurd.minecraftByLeaziurd

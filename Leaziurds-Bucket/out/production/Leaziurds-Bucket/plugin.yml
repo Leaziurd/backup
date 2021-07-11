@@ -1,0 +1,5 @@
+name: leaziurds-bucket
+version: 0.0.1
+author: Leaziurd
+main: net.leaziurd.leaziurdsBucket.leaziurdsBucket
+api-version: 1.8.8

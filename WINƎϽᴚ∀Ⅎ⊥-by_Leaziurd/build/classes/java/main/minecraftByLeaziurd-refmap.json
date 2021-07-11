@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "net/leaziurd/minecraftByLeaziurd/mixin/noMoreMultiplayer": {
+      "init()V": "Lnet/minecraft/class_442;method_25426()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/leaziurd/minecraftByLeaziurd/mixin/noMoreMultiplayer": {
+        "init()V": "Lnet/minecraft/class_442;method_25426()V"
+      }
+    }
+  }
+}
